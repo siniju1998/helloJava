@@ -1,0 +1,6 @@
+"green"
+"grey"
+"stripes"
+"polkadot"
+"white"
+"black"
